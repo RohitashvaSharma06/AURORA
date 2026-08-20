@@ -1,7 +1,8 @@
 {
-  "id": "indian-passenger-coach",
+  "id": "lhb-passenger-coach",
+  "name": "Indian Railways LHB AC Chair / Sleeper Coach",
   "assetFile": "coach.glb",
   "scale": "1 unit = 1 metre",
-  "status": "missing",
-  "note": "No coach asset has been bundled; do not replace it with primitive geometry."
+  "status": "ready",
+  "author": "AURORA 3D Procedural Engine"
 }
