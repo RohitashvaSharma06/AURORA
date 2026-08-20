@@ -1,0 +1,16 @@
+{
+  "id": "cc0-modern-electric-locomotive",
+  "displayName": "CC0 Modern Electric Locomotive",
+  "scale": "1 unit = 1 metre",
+  "expectedDimensionsMetres": {"length": 20.7, "width": 3.2, "height": 4.3},
+  "forwardAxis": "+Z after Aurora normalization",
+  "upAxis": "+Y",
+  "rotationOffsetRadians": 0,
+  "trackOffsetMetres": 0,
+  "heightOffsetMetres": 0.405,
+  "assetFile": "locomotive.glb",
+  "status": "validated_glb_integrated",
+  "source": "https://opengameart.org/content/locomotive-1",
+  "license": "CC0 1.0",
+  "attribution": "Optional attribution: 32kda"
+}
